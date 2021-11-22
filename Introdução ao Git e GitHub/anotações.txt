@@ -1,0 +1,5 @@
+Link para donwload do Git: https://git-scm.com/downloads
+
+----
+
+Link para download do .NET: https://dotnet.microsoft.com/download
