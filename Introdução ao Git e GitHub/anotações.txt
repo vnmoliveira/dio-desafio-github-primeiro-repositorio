@@ -3,3 +3,14 @@ Link para donwload do Git: https://git-scm.com/downloads
 ----
 
 Link para download do .NET: https://dotnet.microsoft.com/download
+
+---- 
+
+Comandos importantes do Git:
+
+- Clonar repositório: git clone + "link do repositório a ser clonado"
+- Verificar status:   gi status
+- Adicionar arquivos ao índice: git add "nome do arquivo" / ou "." para adicionar todos os arquivos alterados
+- Commitar: git commit -m "Escreva seu comit (Commit claro e completo)"
+- Subir arquivos para o repositório no GitHub: git push origin "nome da branch"
+
